@@ -12,3 +12,7 @@ A simple and clean recipe website built as part of the [Foundations Course](http
 ## Technologies Used
 
 - HTMl5
+
+## Live Version
+
+https://matiasbastarrica.github.io/odin-recipes/index.html
